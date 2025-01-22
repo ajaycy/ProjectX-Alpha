@@ -1,0 +1,3 @@
+TODO:
+- Remove hardcoded credentials from older commits
+- Secure the API endpoint
